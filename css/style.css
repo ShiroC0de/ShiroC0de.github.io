@@ -14,6 +14,27 @@ body {
 
  
   }
+  div{
+    display: block;
+  }
+  .main{
+    position: relative;
+    height: 250px;
+    margin-right: 0px;
+    width: 950px;
+    margin: 0; 
+    max-width: 949px;
+  }
+  .Logom{    
+    position: relative;
+    width: 950px;
+    margin-right: -2cm;
+    padding: 15px;
+    max-width: 949px;
+    max-height: 214px;
+
+
+  }
   ul{
     list-style-type: none;
     float: right;
